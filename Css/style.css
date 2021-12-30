@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #1D1D1F;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+}
